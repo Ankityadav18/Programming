@@ -10,4 +10,4 @@ function Biggest(a,b,c){
 
 }
 
-console.log(Biggest(10,20,30));
+console.log(Biggest(10,40,30));
