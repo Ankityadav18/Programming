@@ -1,6 +1,3 @@
-let a = 20
-let b = 10
-let c = 30
-if(a<b){
-    let 
-}
+let  a=200;
+let b=100;
+let c=300;

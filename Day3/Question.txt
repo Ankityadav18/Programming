@@ -1,0 +1,7 @@
+write a function which accepts start and end print all the values between start and end.
+write a function which accepts two argument and print only the number from start to end.
+write a function to return the sum of natural number up to n;
+write a function to return the productof number up to n;
+WAF to return the differnce between the sum of natural Number and product of natural number.
+WAF to return the factorial of given number.
+WAF  to return the true value if the sum of natural up to n is even else return false

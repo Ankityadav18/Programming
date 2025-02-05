@@ -1,0 +1,12 @@
+Print the even number without if and module up to n;
+Print the sum of the digit of all number.
+Write a function to return the sum of the square of the digit.
+Write a function to print only the even number.
+WAF  to return the sum odd digits of a given number
+WAF to return the product of even digit of a given number
+WAF to return the sum of external digits.
+WAF to return the sum of the internal Digit.
+WAF to return the difference in the sum of External and Internal Digit.
+WAF to return the sum of the factorial of Digit.
+WAF to return the reverse of a given number.
+

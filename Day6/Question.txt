@@ -1,0 +1,5 @@
+WAF to check whether the given digit is Present in the given number or not.
+Prime Number or not
+Count the number of prime digit in a given Number.
+Find the sum of non-prime digit in a given number.
+Find the product of prime digit of a number.
