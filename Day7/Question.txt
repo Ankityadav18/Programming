@@ -1,0 +1,8 @@
+given a set of 3 input you should determine if you are allow to drive the car or not
+case1: You are having a driving license
+case2:Your are tired.
+Case3:Your are sober (not drunk)
+case4:You should allow the user to drive .
+when you are having DL
+you are not tired
+you are a sober.

@@ -1,0 +1,4 @@
+given a sting print the  charcater code of string.
+WAF to print the count 
+WAF to return the sentence in a Captiliased
+WAF to return the length of the word which is having the maximum length; DONE

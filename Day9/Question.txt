@@ -1,0 +1,5 @@
+Find the length of the last word in a sentence
+Return the last word in the given sentence
+Check whether the given string is pallindrome or not
+With revesre and without revesre
+Count the number of special in a given string

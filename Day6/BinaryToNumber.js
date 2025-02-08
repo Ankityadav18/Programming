@@ -1,4 +1,4 @@
-function binaryToNumber(num){
+function binaryToDecimal(num){
 let sum=0;
 let power=0
 do{  
@@ -12,5 +12,5 @@ while(num>0){
 }
    
 }
-console.log(binaryToNumber(1010));
+console.log(binaryToDecimal(1010));
 
