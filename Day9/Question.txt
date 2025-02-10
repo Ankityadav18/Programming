@@ -1,5 +1,5 @@
-Find the length of the last word in a sentence
+Find the length of the last word in a sentence  .done
 Return the last word in the given sentence
-Check whether the given string is pallindrome or not
+Check whether the given string is pallindrome or not .done
 With revesre and without revesre
 Count the number of special in a given string

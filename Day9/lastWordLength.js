@@ -1,10 +1,18 @@
-function lastWordLength(str){
-    let cnt=0;
-    for(let i=end;i>=0;i--){
-        if(str===''){
-            
+function LastWordLength(a) {
+    let len = 0;
+    x = a.trim();
+    for (let i = 0; i < x.length; i++) {
+        if (x[i] == ' ') {
+            len = 0;
+        }
+        else {
+            len++;
         }
     }
-
+    return len;
 }
-console.log(lastWordLength("Hello java"));
+
+
+console.log(LastWordLength("hello"));
+
+
