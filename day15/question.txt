@@ -1,0 +1,1 @@
+print the or return the first repeating characterin a given word.

@@ -6,7 +6,7 @@ function Occurence(str) {
     let start = 0;
     let end = 0;
 
-    for (let i = 0; i < str.length; i++) {
+       for (let i = 0; i < str.length; i++) {
         if (str[i] == ' ') {
             if (max_Word < count) {
                 max_Word = count
@@ -19,7 +19,7 @@ function Occurence(str) {
         else {
             count++;
         }
-    }
+       }
 
         if (max_Word <= count) {
             max_Word = count;

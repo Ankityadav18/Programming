@@ -1,0 +1,4 @@
+return a character which is repeating for maximum time.
+return a characetr which is repeating for minimum time.
+WAF to return all the characters which are repeating for given targeted time and return in form of array.
+'abacdeba' => 'a3b2c1d1e1'.
